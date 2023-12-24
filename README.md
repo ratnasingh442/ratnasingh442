@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/ACzsN9dhQuOZ6RYXcM/giphy.gif" width="500"/>
 </div>
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/ratna-singh-37bb12165/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -11,9 +11,9 @@
 <h1>Hi there 👋</h1>
 
 I am a Frontend Developer.
-My expertise are ReactJS, Angular, Javascript, CSS3, HTML5.
+My expertise are ReactJS, Angular, TypeScript, JavaScript, CSS3, HTML5.
 Currently working in Dassault Systemes.
-Happy to collaborate on React Projects.
+Happy to collaborate on React and Javascript Projects.
 
 </div>
 <div id="header" align="center">
