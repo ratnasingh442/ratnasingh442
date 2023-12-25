@@ -8,12 +8,19 @@
 </div>
 
 <div align="center">
-<h1>Hi there 👋</h1>
-
-I am a Frontend Developer.
-My expertise are ReactJS, Angular, TypeScript, JavaScript, CSS3, HTML5.
-Currently working in Dassault Systemes.
-Happy to collaborate on React and Javascript Projects.
+<h1><i>Hi there 👋</i></h1>
+  
+<h2><i>My expertise are:</i></h2>
+<div>
+<img height="100" width="100" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="React JS">
+<img  height="100" width="100" src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" alt="Angular">
+<img height="100" width="100" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="Javascript">
+<img height="80" width="80" src="https://tse3.mm.bing.net/th?id=OIP.obHUAbD-uLUp_VdWMQbjaAHaHa&pid=Api&P=0&" alt="TypeScript">
+<img height="100" width="100" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="CSS">
+<img height="100" width="100" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" alt="HTML">
+</div>
+<h3><strong><i>Currently working in Dassault Systemes as a Frontend Developer</i></strong></h3>
+<i>Happy to collaborate on React and Javascript Projects.</i>
 
 </div>
 <div id="header" align="center">
