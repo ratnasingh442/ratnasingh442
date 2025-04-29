@@ -12,15 +12,15 @@
   
 <h2><i>My expertise are:</i></h2>
 <div>
-<img height="100" width="100" src="https://www.jedecore.com/gif/internet/java.gif" alt="Java">
-<img height="100" width="100" src="https://miro.medium.com/v2/resize:fit:1000/1*XtjiQD35ja0DcA9H-JuM-g.png" alt="SpringBoot">
 <img height="100" width="100" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="React JS">
 <img  height="100" width="100" src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" alt="Angular">
 <img height="100" width="100" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="Javascript">
+<img height="100" width="100" src="https://dejuniorasenior.com/wp-content/uploads/2022/12/css.webp" alt="CSS">
+<img height="100" width="100" src="https://tse4.mm.bing.net/th?id=OIP.2RTVGoildAWqLpLW4DnVWQHaHa&pid=Api&P=0&h=180" alt="HTML">
 <img height="80" width="80" src="https://tse3.mm.bing.net/th?id=OIP.obHUAbD-uLUp_VdWMQbjaAHaHa&pid=Api&P=0&" alt="TypeScript">
 </div>
-<h3><strong><i>Currently working in Dassault Systemes as a FullStack Developer</i></strong></h3>
-<i>Happy to collaborate on Java and React Projects.</i>
+<h3><strong><i>Currently working in Dassault Systemes as a Frontend Developer</i></strong></h3>
+<i>Happy to collaborate on React Projects.</i>
 
 </div>
 <div id="header" align="center">
